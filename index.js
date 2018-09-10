@@ -1,3 +1,3 @@
-concat();
+var destructivelyAppendKitten = 
 
 
