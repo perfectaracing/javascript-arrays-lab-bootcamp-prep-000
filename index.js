@@ -1,7 +1,6 @@
 function destructivelyAppendKitten(name) {
-  var newArray = kittens.slice();
-  newArray.push(name)
-  return newArray
+  kittens.push(name);
+  return kittens;
 }
 
 
